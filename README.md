@@ -1,0 +1,2 @@
+# ZorinSO
+Instalación de Zorin
