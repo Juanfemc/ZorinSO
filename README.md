@@ -49,9 +49,15 @@ Seleccionando la opción de <b>Instalar software de terceros</b> permite fundame
 Seleccionando la opcion en <b>No participes en el senso</b> en el caso de no seleccionar esta opción, simplemente se contara como una instalación en las estadísticas para el proyecto de forma anónima.
 
 
-Al momento de crear las particiones para instalar ZorinOS, podemos tomar dos posibles caminos. Utilizar todo el disco para instalar nuestro sistema sin particiones, o particionar el disco para crear diferentes puntos de montaje (un poquito mas complejo).
+Al momento de crear las particiones para instalar ZorinOS, podemos tomar dos posibles caminos. Utilizar todo el disco para instalar nuestro sistema sin particiones, o particionar el disco para crear diferentes puntos de montaje.
 
-Al momento de crear las particiones para instalar ZorinOS, podemos tomar dos posibles caminos. Utilizar todo el disco para instalar nuestro sistema sin particiones, o particionar el disco para crear diferentes puntos de montaje (un poquito mas complejo).
+## Con particiones
+Los mas comunes por los cuales se crean particiones como puntos de montaje son:
+
+* <b>/boot</b>: Arranque del sistema.
+* <b>/</b>: Contiene toda la estructura de directorios del sistema operativo.
+* <b>/</b> y <b>home</b>: Contiene los directorios de los usuarios.
+
 
 
 
