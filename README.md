@@ -137,12 +137,30 @@ Con Nautilus obtenemos todas las herramientas necesarias para poder disponer de 
 
 
 
+
+
+
+
+#
+# DESCRIPCION DE COMANDOS CON SUS RESPECTIVOS  EJEMPLOS
+
+ ![imagen 15](img/COMANDO1.png)
+ ![imagen 16](img/COMANDO2.png)
+ ![imagen 17](img/COMANDO3.png)
+ ![imagen 18](img/COMANDO4.png)
+
+
+
+#
+
+
+
 *Creado por Juan Felipe Merchancano*
 con colaboracion de:
 
 - *Duvan Dario Aguirre*
 
-- *Leonela Ateorthua*
+- *Diana Leonela Atehortua*
 
 
 
